@@ -48,7 +48,5 @@ flutter run
 
 
 
-| Details | Settings | Add |
-|---|---|---|
-| ![Details](screenshots/details.png) | ![Settings](screenshots/settings.png) | ![Add](screenshots/add.png) |
+
 
